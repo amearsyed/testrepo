@@ -6,6 +6,7 @@ public class sw1 {
 		System.out.println("hi ak");
 		System.out.println("hiiii");
 		System.out.println("kjgj");
+		System.out.println("don");
 	}
 
 }
